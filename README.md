@@ -1,8 +1,8 @@
 # GraphQL Demo
 
 ## Structure
-- `src`    - Contain source files.
-- `prisma` - Contains prisma related files and sqlite database file.
+- **src**    - Contain source files.
+- **prisma** - Contains prisma related files and sqlite database file.
 
 ## Installation
 - Clone the repo.
